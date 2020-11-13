@@ -47,7 +47,7 @@
         <version>4.12</version>
         <scope>test</scope>
     </dependency>
-gi    <dependency>
+    <dependency>
         <groupId>info.cukes</groupId>
         <artifactId>cucumber-java</artifactId>
         <version>1.2.5</version>
